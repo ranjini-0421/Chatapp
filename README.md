@@ -3,8 +3,7 @@ In[1]: import pandas as pd
        import matplotlib.pyplot as plt
        import seaborn as sns
 
-In[2]: from google.colab import drive
-       drive.mount('/content/drive')
+In[2]: 
 
        import pandas as pd
 
