@@ -1,8 +1,8 @@
 In[1]:     
-import pandas as pd
-import numpy as np
-import matplotlib.pyplot as plt
-import seaborn as sns
+       import pandas as pd
+       import numpy as np
+       import matplotlib.pyplot as plt
+       import seaborn as sns
 
 In[2]:
 
@@ -13,3 +13,7 @@ In[2]:
        apps = pd.read_csv(file_path)
        print("Successfully Imported Data!")
        apps.head(5)
+
+Out[2]:
+---------------------------------------------------------------------------------------------------------------------------------------------------
+       #       App
