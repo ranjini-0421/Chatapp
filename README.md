@@ -16,5 +16,20 @@ In[2]:
        apps.head(5)
 
 Out[2]:
-       #       App       Category       Rating       Reviews       Size       Installs       Type       Price       Content Rating
+       #              App              Category              Rating              Reviews              Size              Installs              Type              Price              ContentRating
+
+       0        Infinite Painter    ART_AND_DESIGN
+
+       1
+
+       2
+       
+       3
+
+       4
+
+
+
+
+
 
