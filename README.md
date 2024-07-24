@@ -12,3 +12,13 @@ In[2]:
        apps = pd.read_csv(file_path)
        print("Successfully Imported Data!")
        apps.head(5)
+In[3]: from google.colab import drive
+drive.mount('/content/drive')
+
+import pandas as pd
+
+file_path = '/content/drive/My Drive/Colab Notebooks/GooglePlayStore/apps.csv'
+
+apps = pd.read_csv(file_path)
+print("Successfully Imported Data!")
+apps.head(5)
