@@ -18,7 +18,7 @@ In[2]:
 Out[2]:
        #              App              Category              Rating              Reviews              Size              Installs              Type              Price              ContentRating
 
-       0        Infinite Painter    ART_AND_DESIGN
+       0        Infinite Painter    ART_AND_DESIGN       
 
        1
 
