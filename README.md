@@ -1,1 +1,1 @@
-             Chat application using python 
+Chat application using python 
